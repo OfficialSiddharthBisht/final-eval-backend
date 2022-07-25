@@ -31,7 +31,7 @@
 .TextHead {
     display: flex;
     justify-content: center;
-    color: rgb(255, 217, 0);
+    color: rgb(14, 161, 26);
     font-size: 27px;
     font-weight: lighter;
     margin-bottom: 40px;
@@ -43,7 +43,7 @@
     background-color: rgb(78, 78, 78);
     outline: none;
     color: white;
-    border: 2px solid rgb(255, 217, 0);
+    border: 2px solid rgb(14, 161, 26);;
     border-radius: 10px;
     margin-bottom: 50px;
     padding: 10px 15px;
@@ -54,7 +54,7 @@
     align-items: center;
     justify-content: center;
     width: 130px;
-    background-color: rgb(255, 217, 0);
+    background-color: rgb(14, 161, 26);;
     height: 40px;
     border: none;
     outline: none;
@@ -65,8 +65,3 @@
     transition: all 0.4s;
 }
 
-.CreateNoteBtn:hover {
-    background: none;
-    color: rgb(255, 217, 0);
-    border: 2px solid rgb(255, 217, 0);
-}

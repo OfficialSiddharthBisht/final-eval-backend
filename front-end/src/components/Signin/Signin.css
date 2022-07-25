@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     background-color: rgb(78, 78, 78);
-    color: rgb(255, 217, 0);
+    color: rgb(14, 161, 26);;
     height: 92.1vh;
 }
 
@@ -49,7 +49,7 @@
     height: 35px;
     width: 300px;
     text-align: center;
-    border: 2px solid rgb(255, 217, 0);
+    border: 2px solid rgb(14, 161, 26);;
     border-radius: 10px;
     background: rgb(78, 78, 78);
     outline: none;
@@ -71,7 +71,7 @@
     margin-bottom: 20px;
     width: 100%;
     font-size: 15px;
-    background-color: rgb(255, 217, 0);
+    background-color: rgb(14, 161, 26);;
     font-weight: bold;
     border: 2px solid black;
     outline: none;
@@ -79,13 +79,6 @@
     border-radius: 7px;
     transition: all 0.4s;
 }
-
-.Btns:hover {
-    background: none;
-    border: 2px solid rgb(255, 217, 0);
-    color: rgb(255, 217, 0);
-}
-
 .registerBtn {
     background-color: rgb(8, 163, 163);
 }

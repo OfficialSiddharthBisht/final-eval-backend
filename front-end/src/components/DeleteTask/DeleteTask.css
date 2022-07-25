@@ -11,7 +11,7 @@
 .DelQuestion {
     display: flex;
     justify-content: center;
-    color: rgb(255, 217, 0);
+    color: rgb(14, 161, 26);;
     font-size: 20px;
     font-weight: lighter;
     margin-bottom: 70px;
@@ -20,7 +20,7 @@
 .DelNoteContent {
     display: flex;
     justify-content: center;
-    color: rgb(255, 217, 0);
+    color: rgb(14, 161, 26);;
     font-size: 30px;
     font-weight: lighter;
     margin-bottom: 70px;
@@ -50,21 +50,15 @@
 }
 
 .NoDeleteButton {
-    background-color: rgb(255, 217, 0);
+    background-color: rgb(14, 161, 26);;
 }
 
 .NoDeleteButton:hover {
     background: none;
-    color: rgb(255, 217, 0);
-    border: 2px solid rgb(255, 217, 0);
+    color: rgb(14, 161, 26);;
+    border: 2px solid rgb(14, 161, 26);;
 }
 
 .YesDeleteButton {
     background-color: rgb(255, 62, 62);
-}
-
-.YesDeleteButton:hover {
-    background: none;
-    color: rgb(255, 62, 62);
-    border: 2px solid rgb(255, 62, 62);
 }
